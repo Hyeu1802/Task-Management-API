@@ -12,4 +12,4 @@ Hệ thống API Quản lý User, Project và Task. Ứng dụng phân quyền c
 ## ⚙️ Hướng dẫn Cài đặt (Setup)
 1. Clone project về máy:
    ```bash
-   git clone <link_github_của_bạn>
+   git clone https://github.com/Hyeu1802/Task-Management-API.git
